@@ -1,0 +1,41 @@
+@charset "UTF-8";
+.logo {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	float: left;
+	clear: both;
+}
+.product-img {
+	float: right;
+	color: #E303F9;
+	text-align: center;
+}
+.brush {
+	color: #AA0000;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+}
+h2 {
+	clear: left;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-variant: small-caps;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	color: #AA0000;
+}
+p {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-variant: small-caps;
+	font-weight: 900;
+	font-size: x-large;
+}
+h3 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: italic;
+}
+.copyright {
+	clear: left;
+}
